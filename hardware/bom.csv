@@ -1,0 +1,5 @@
+ref,value,footprint,qty
+U1,MCU,module,1
+T1,ultrasonic-pair,header,1
+RAD1,radio-module,header,1
+BT1,LiFePO4,18650,2
